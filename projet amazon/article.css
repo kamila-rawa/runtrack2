@@ -1,0 +1,100 @@
+header {
+    background-color: #131a22;
+}
+
+.header1 { display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 1em;
+    font-family: "Amazon Ember", Arial, sans-serif; 
+}
+
+.linkwhite { color: white;
+    text-decoration: none;
+}
+
+.linkblack { color: black;
+    text-decoration: none;
+}
+
+.header2 { display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 50px;
+    background-color: #232F3E;
+    padding: 15px;
+    font-size: 1.3em;
+}
+
+.produit { display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: white;
+    border-color: whitesmoke;
+    border-radius: 0px;
+    border-style: solid;
+}
+
+.main { display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.linkblue { color:blue;
+    text-decoration: none;
+}
+
+.linkred { color:red;
+    text-decoration: none;
+}
+
+.linkgreen { color: green;
+    text-decoration: none;
+}
+
+.button { display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+button { display: flex;
+    flex-direction: row;
+    border-radius: 5px;
+}
+
+.evaluation {display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.commentaire {display: flex;
+    flex-direction: row;
+    justify-content: none space-between;
+}
+
+.bouton {
+    background-color: #ffd814;
+    border-radius: 15px;
+    border: none;
+    padding: 10px 30px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.retour {
+    background-color: red;
+    border-radius: 15px;
+    border: none;
+    padding: 10px 30px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px; 
+    text-decoration: none;
+    color:white;
+    font-size: 1.1em;
+}
+
+
+    
